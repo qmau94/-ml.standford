@@ -7,7 +7,7 @@ assignments by [qmau](https://qmau.me/)
 
 ## Course
  1. Ex1 - Score: **100%**
-
+ 2. Ex2 - Score: **100%**
 ## License
 qmau94/ml.standford is licensed under the
 **MIT License**
